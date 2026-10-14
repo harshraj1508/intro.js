@@ -6,3 +6,5 @@ function intro(){
 function displayName(){
 
 }
+
+// Practicing Git branches
